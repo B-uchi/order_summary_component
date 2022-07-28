@@ -30,15 +30,13 @@ p{
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
     width: 100%;
-    height: 100%;
     margin-bottom: -20px;
 }
 .main-container{
     margin-top: -30px;
     border-radius: 15px;
     background-color: white;
-    width: 23rem;
-    height: fit-content;
+    max-width: 360px;
     justify-content: center;
 }
 .bottom-content{
@@ -81,6 +79,8 @@ p{
     cursor: pointer;
     box-shadow: 0px 5px 6px #696969;
 }
+a:hover { color: #afaec1; }
+#proceed:hover { background-color: hsl(224, 23%, 55%); }
 #cancel{
     border: none;
     padding: 15px;
@@ -89,10 +89,9 @@ p{
     width: 20rem;
     border-radius: 10px;
     background-color: white;
-    color: hsl(224, 23%, 55%);
+    color: #696969;
     cursor: pointer;
 }
 a{
     font-weight: 700;
-    color: hsl(245, 75%, 52%);
 }
