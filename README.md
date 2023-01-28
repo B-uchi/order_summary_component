@@ -8,6 +8,9 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
 
+## Preview Link
+[Click Here](https://b-uchi.github.io/order_summary_component/)
+
 ## Overview
 
 ### The challenge
